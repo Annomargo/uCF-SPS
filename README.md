@@ -1,9 +1,9 @@
 # uCF-SPS
-microcontrolled Flow. Syringe Pumping System
+Microcontrolled Flow. Syringe Pumping System.
 
-This is the repositoire for the microcontrolled flow system created by the OSHW group of UHU (University of Huelva - SPAIN)
+This is the repositoire for a microcontrolled flow system created by the OSHW group of UHU (University of Huelva - SPAIN)
 By now the project has two versions: 
-The first uses electronics technology partially open source and all the parts are maked with handtools from reused raw materials.
-The second one is completelly open source and the parts are 3D printed in PLA
+The first version uses electronics technology, is partially open source and every part is handmade using recycled materials.
+The second version is fully open source and every piece was designed and 3D printed in PLA.
 
 ![Foto 16-9-20 10 02 49](https://user-images.githubusercontent.com/88629918/180166455-cfe37ecc-8207-4b79-bc7e-195aee27060f.jpg)
